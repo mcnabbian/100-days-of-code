@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+*I basically started this challenge almost 3 weeks ago, but I figured I would just 'restart' because it would be nice to have a daily log of progress to look back on. In addition to the time of spent learning, I've created a jupyter notebook available [HERE](https://github.com/mcnabbian/cuttlefish).*
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: March 5, 2020
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Began learning SQL. Learned about relational databases and how to make some basic queries. Also learned what it means to clone a repository and what a 'remote' is in relation to git.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: SQL seems like a really easy way to explore (filter, groupby, etc.) a dataset. I'm excited to complete the intro SQL course and start digging into some interesting data. I started off using 'brute force', like iterating through each row of a dataset, building lists/dictionaries, etc. That was pretty aweful and clearly inefficient when it comes to big data. I then learned how to utilize Pandas and NumPy libraries. That was much much better but still had a bit of a steep learning curve. By no means have I mastered it, but I understand how pandas dataframes are structured, how to use indexes to filter out data, how to relate two or more columns to each other, how to use the describe method to quickly get basic statistics, etc. I'm excited to see what can be done using SQL. Honestly it seems a lot more straightforward, so maybe I won't have to bang my head against the wall quite as much.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Link to work: https://github.com/mcnabbian/cuttlefish, https://sqlbolt.com/
