@@ -14,7 +14,7 @@ Link to work: https://github.com/mcnabbian/cuttlefish, https://sqlbolt.com/
 
 **Notes:**
 - SQL; types of joins
-![join types](/Users/ianmcnabb/Documents/programming/100-days-of-code/sql-joins.png)
+![join types](https://www.dofactory.com/Images/sql-joins.png)
 *source: https://www.dofactory.com/sql/join*
 
 **Today's Progress**: Progressed in SQL course. Learned how to limit and offset results. More importantly, learned several
