@@ -2,7 +2,7 @@
 
 *I basically started this challenge almost 3 weeks ago, but I figured I would just 'restart' because it would be nice to have a daily log of progress to look back on. In addition to the time of spent learning, I've created a jupyter notebook available [HERE](https://github.com/mcnabbian/cuttlefish).*
 
-### Day 0: March 5, 2020
+### Day 1: March 5, 2020
 
 **Today's Progress**: Began learning SQL. Learned about relational databases and how to make some basic queries. Also learned what it means to clone a repository and what a 'remote' is in relation to git.
 
@@ -10,7 +10,7 @@
 
 Link to work: https://github.com/mcnabbian/cuttlefish, https://sqlbolt.com/
 
-### Day 1: March 6, 2020
+### Day 2: March 6, 2020
 
 **Notes:**
 - SQL; types of joins
@@ -21,5 +21,10 @@ Link to work: https://github.com/mcnabbian/cuttlefish, https://sqlbolt.com/
 different kinds of joins.
 
 **Thoughts**: Spent a bit of time stuck on a left join problem; turns out I was writing the column name
-incorrectly woooo. Classic. Slow day, working through tutorials isn't particularly interesting, but probably best to understand
-the basics.e
+incorrectly woooo. Classic. Slow day, working through tutorials isn't particularly interesting, but probably best to understand the basics.
+
+### Day 3: March 7, 2020
+
+**Today's Progress**: Learned how to use aggregates (functions) in a SQL select query. Also learned how to filter out NULL values from my results.
+
+**Thoughts**: It's saturday and it's sunny and I'm hungry but you know what; my hour is complete. Working through this tutorial is dreadfully boring, bur necessary.
