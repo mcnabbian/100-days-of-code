@@ -1,4 +1,4 @@
-#Goals
+## Goals
 ---
 - Become proficient in SQL
 - Build personal website
