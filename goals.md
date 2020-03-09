@@ -1,5 +1,4 @@
 ## Goals
----
 - Become proficient in SQL
 - Build personal website
 - Become proficient in pandas and numpy
