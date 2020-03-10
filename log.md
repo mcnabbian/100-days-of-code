@@ -35,13 +35,13 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 
 **Thoughts**: Another tough day to work up the motivation to sit down for at least an hour, only because I didn't get much sleep and had a pretty active day. BUT once you start, it's not so bad. Some days maybe all I do is watch informative youtube videos.
 
-### Day 4: March 9, 2020
+### Day 5: March 9, 2020
 
 **Today's Progress:** Finished up SQL basics tutorial. Spent about an hour researching how to use Python with SQL, how to read a CSV into a database, etc.
 
 **Thoughts**: SQLite is part of the Python standard library, so you can create queries using that. I've seen how you connect to the database and use a cursor to create queries, etc. but what I haven't seen is how you can read in an existing dataset. How do you convert a CSV into a datatable? I think that this would be much more useful than creating my own table manually. I'd like to add some SQL commands to my cuttlefish repository in order to showcase that skill, but I'm not seeing how I can convert that CSV to a database.
 
-### Day 5: March 10, 2020
+### Day 6: March 10, 2020
 
 **Today's Progress:** Started automated_journal project. Learned about SSL, TLS, HTTP, HTTPS, encryption, and connecting to a server.
 
