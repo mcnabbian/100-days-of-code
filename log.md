@@ -46,3 +46,9 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** Started automated_journal project. Learned about SSL, TLS, HTTP, HTTPS, encryption, and connecting to a server.
 
 **Thoughts**: I was feeling bored and unmotivated to continue on with the same 'data project'. There doesn't seem to be a good way to read a csv into sqlite3, which is part of the python standard library. And I don't want to get into working in applications such as MySQL or SQL Server just yet. It's something that I will come back to. I've had a bit of a hard time keeping my PyCharm project files organized, using the correct intepreter, etc. so I'm going to give Sublime text editor a try in hopes that it's a little simpler and more suited to my current needs.
+
+### Day 7: March 11, 2020
+
+**Today's Progress:** "Logistical" work today; setup remote repository, reset local repository, created README, configured PyCharm project path, laid out a general 'plan of attack' for this project, listed some possible questions for the prompt to include. View the repo [here](https://github.com/mcnabbian/automated_journal).
+
+**Thoughts**: A boring but important day today. Didn't have much time, already a quarter after 10pm, but I should be all ready to hack away at this in the future. It's weird, I almost always have anxiety before sitting down and coding, but once I do it, 5 minutes in, it's all good. I wonder if that ever goes away?
