@@ -2,7 +2,7 @@
 
 *I basically started this challenge almost 3 weeks ago, but I figured I would just 'restart' because it would be nice to have a daily log of progress to look back on. In addition to the time of spent learning, I've created a jupyter notebook available [HERE](https://github.com/mcnabbian/cuttlefish).*
 
-
+---
 ### Day 1: March 5, 2020
 
 **Today's Progress**: Began learning SQL. Learned about relational databases and how to make some basic queries. Also learned what it means to clone a repository and what a 'remote' is in relation to git.
