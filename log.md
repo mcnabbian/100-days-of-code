@@ -59,3 +59,9 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** "Logistical" work today; setup remote repository, reset local repository, created README, configured PyCharm project path, laid out a general 'plan of attack' for this project, listed some possible questions for the prompt to include. View the repo [here](https://github.com/mcnabbian/automated_journal).
 
 **Thoughts**: A boring but important day today. Didn't have much time, already a quarter after 10pm, but I should be all ready to hack away at this in the future. It's weird, I almost always have anxiety before sitting down and coding, but once I do it, 5 minutes in, it's all good. I wonder if that ever goes away?
+
+### Day 8: March 12, 2020
+
+**Today's Progress:** Updated automated_journal main.py. Added try, except blocks. Added user input prompts for receiver and sender addresses. Successfully sends plaintext email.
+
+**Thought**: The email that sends is poorly formatted and isn't exactly custom. The person using this script would need to be able to have a baselevel of knowledge to open the script and customize the message. This is acceptable for now. I want to use the MIME generator from python's email library to send emails in either plain-text or HTML format. HTML emails are highly customizable.
