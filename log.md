@@ -11,7 +11,7 @@
 
 Link to work: https://github.com/mcnabbian/cuttlefish, https://sqlbolt.com/
 
-
+---
 ### Day 2: March 6, 2020
 
 **Notes:**
@@ -25,35 +25,35 @@ different kinds of joins.
 **Thoughts**: Spent a bit of time stuck on a left join problem; turns out I was writing the column name
 incorrectly woooo. Classic. Slow day, working through tutorials isn't particularly interesting, but probably best to understand the basics.
 
-
+---
 ### Day 3: March 7, 2020
 
 **Today's Progress**: Learned how to use aggregates (functions) in a SQL select query. Also learned how to filter out NULL values from my results.
 
 **Thoughts**: It's saturday and it's sunny and I'm hungry but you know what; my hour is complete. Working through this tutorial is dreadfully boring, but necessary.
 
-
+---
 ### Day 4: March 8, 2020
 
 **Today's Progress**: Almosted completed intro to SQL tutorial. Learned all the basics for making select queries and started to learn how to make modifications (update, delete, insert rows) to the datatable.
 
 **Thoughts**: Another tough day to work up the motivation to sit down for at least an hour, only because I didn't get much sleep and had a pretty active day. BUT once you start, it's not so bad. Some days maybe all I do is watch informative youtube videos.
 
-
+---
 ### Day 5: March 9, 2020
 
 **Today's Progress:** Finished up SQL basics tutorial. Spent about an hour researching how to use Python with SQL, how to read a CSV into a database, etc.
 
 **Thoughts**: SQLite is part of the Python standard library, so you can create queries using that. I've seen how you connect to the database and use a cursor to create queries, etc. but what I haven't seen is how you can read in an existing dataset. How do you convert a CSV into a datatable? I think that this would be much more useful than creating my own table manually. I'd like to add some SQL commands to my cuttlefish repository in order to showcase that skill, but I'm not seeing how I can convert that CSV to a database.
 
-
+---
 ### Day 6: March 10, 2020
 
 **Today's Progress:** Started automated_journal project. Learned about SSL, TLS, HTTP, HTTPS, encryption, and connecting to a server.
 
 **Thoughts**: I was feeling bored and unmotivated to continue on with the same 'data project'. There doesn't seem to be a good way to read a csv into sqlite3, which is part of the python standard library. And I don't want to get into working in applications such as MySQL or SQL Server just yet. It's something that I will come back to. I've had a bit of a hard time keeping my PyCharm project files organized, using the correct intepreter, etc. so I'm going to give Sublime text editor a try in hopes that it's a little simpler and more suited to my current needs.
 
-
+---
 ### Day 7: March 11, 2020
 
 **Today's Progress:** "Logistical" work today; setup remote repository, reset local repository, created README, configured PyCharm project path, laid out a general 'plan of attack' for this project, listed some possible questions for the prompt to include. View the repo [here](https://github.com/mcnabbian/automated_journal).
