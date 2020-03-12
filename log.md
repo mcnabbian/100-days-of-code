@@ -60,6 +60,7 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 
 **Thoughts**: A boring but important day today. Didn't have much time, already a quarter after 10pm, but I should be all ready to hack away at this in the future. It's weird, I almost always have anxiety before sitting down and coding, but once I do it, 5 minutes in, it's all good. I wonder if that ever goes away?
 
+---
 ### Day 8: March 12, 2020
 
 **Today's Progress:** Updated automated_journal main.py. Added try, except blocks. Added user input prompts for receiver and sender addresses. Successfully sends plaintext email.
