@@ -65,4 +65,11 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 
 **Today's Progress:** Updated automated_journal main.py. Added try, except blocks. Added user input prompts for receiver and sender addresses. Successfully sends plaintext email.
 
-**Thought**: The email that sends is poorly formatted and isn't exactly custom. The person using this script would need to be able to have a baselevel of knowledge to open the script and customize the message. This is acceptable for now. I want to use the MIME generator from python's email library to send emails in either plain-text or HTML format. HTML emails are highly customizable.
+**Thoughts**: The email that sends is poorly formatted and isn't exactly custom. The person using this script would need to be able to have a baselevel of knowledge to open the script and customize the message. This is acceptable for now. I want to use the MIME generator from python's email library to send emails in either plain-text or HTML format. HTML emails are highly customizable.
+
+---
+### Day 9: March 13, 2020
+
+**Today's Progress:** updated main.py in automated_notebook to use an HTML message with a plain-text alternative. Learned how to use f strings. SQL practice.
+
+**Thoughts**: I'm not sure whether I should go straight into creating a GUI for the automated notebook. If I stick with the email, I will need to learn how to use HTML to format it and how/if I can save the replies into a database. Either way, it was probably helpful to learn how to use python to send emails. There are simpler libraries out there that I could also use (like Yagmail) to make it look a lot cleaner, but knowing how to get it done with the standard library is a plus. I might put the email part on hold and look into using a GUI tomorrow.
