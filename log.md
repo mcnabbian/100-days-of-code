@@ -73,3 +73,10 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** updated main.py in automated_notebook to use an HTML message with a plain-text alternative. Learned how to use f strings. SQL practice.
 
 **Thoughts**: I'm not sure whether I should go straight into creating a GUI for the automated notebook. If I stick with the email, I will need to learn how to use HTML to format it and how/if I can save the replies into a database. Either way, it was probably helpful to learn how to use python to send emails. There are simpler libraries out there that I could also use (like Yagmail) to make it look a lot cleaner, but knowing how to get it done with the standard library is a plus. I might put the email part on hold and look into using a GUI tomorrow.
+
+---
+### Day 10: March 14, 2020
+
+**Today's Progress:** Created my first gui using python's tkinter package. Did some learning about navigating and reading documentation, which is something that's been a struggle for me.
+
+**Thoughts:** I figured I may as well just go ahead and create a gui for my automated journal project. It's something that I would rather have in the long run and I feel like learning how to format an email properly is too much of a time waste. Also, I want to get better at learning how to do things by reading documentation. So far, I've had a much better of a time learning from a third party source like youtube, geeksforgeeks, etc. I think that being able to learn and read documentation effectively will make me that much better of a programmer.
