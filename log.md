@@ -80,3 +80,10 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** Created my first gui using python's tkinter package. Did some learning about navigating and reading documentation, which is something that's been a struggle for me.
 
 **Thoughts:** I figured I may as well just go ahead and create a gui for my automated journal project. It's something that I would rather have in the long run and I feel like learning how to format an email properly is too much of a time waste. Also, I want to get better at learning how to do things by reading documentation. So far, I've had a much better of a time learning from a third party source like youtube, geeksforgeeks, etc. I think that being able to learn and read documentation effectively will make me that much better of a programmer.
+
+---
+### Day 11: March 15, 2020
+
+**Today's Progress:** Replaced entry box with text box. Added submit button. Formatted window dimensions. Practiced SQL queries.
+
+**Thoughts:** Things are starting to get more interesting from a project perspective. I was thinking of fun things to do down the line, create a database for entries, then pull some fun statistics/metrics from it; like most used words, consecutive days of entries, etc.
