@@ -87,3 +87,10 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** Replaced entry box with text box. Added submit button. Formatted window dimensions. Practiced SQL queries.
 
 **Thoughts:** Things are starting to get more interesting from a project perspective. I was thinking of fun things to do down the line, create a database for entries, then pull some fun statistics/metrics from it; like most used words, consecutive days of entries, etc.
+
+---
+### Day 12: March 16, 2020
+
+**Today's Progress:** added a popup window to appear after clicking the submit button asking whether or not the user is sure that they are ready to submit. If they click yes it 'destroys' the program. Next step is saving the entire form along with the entry to a database.
+
+**Thoughts:** Ending up being a short day because of work and an unexpected visit to the doctors'. However, this project is seeming more and more doable and I found myself excited to get back to it.
