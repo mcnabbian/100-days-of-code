@@ -94,3 +94,10 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** added a popup window to appear after clicking the submit button asking whether or not the user is sure that they are ready to submit. If they click yes it 'destroys' the program. Next step is saving the entire form along with the entry to a database.
 
 **Thoughts:** Ending up being a short day because of work and an unexpected visit to the doctors'. However, this project is seeming more and more doable and I found myself excited to get back to it.
+
+---
+### Day 13: March 17, 2020
+
+**Today's Progress:** Cleaned up the code. Seperated a couple of actions into their own separate functions. Added functionality so that after confirming a submit, saves input in text widget to a textfile. Plan to work through SQL exercises.
+
+**Thoughts:** More and more doors keep opening as I dig more into this project which is nice. This has been the most satisfying work I've done yet, at least when it comes to programming. Tomorrow I will see if I can efficiently add more questions and then efficiently save the responses. Later, I plan on using sqlite3 to create/use a database to save responses.
