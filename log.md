@@ -101,3 +101,10 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** Cleaned up the code. Seperated a couple of actions into their own separate functions. Added functionality so that after confirming a submit, saves input in text widget to a textfile. Plan to work through SQL exercises.
 
 **Thoughts:** More and more doors keep opening as I dig more into this project which is nice. This has been the most satisfying work I've done yet, at least when it comes to programming. Tomorrow I will see if I can efficiently add more questions and then efficiently save the responses. Later, I plan on using sqlite3 to create/use a database to save responses.
+
+---
+### Day 14: March 18, 2020
+
+**Today's Progress:** Added multiple questions to gui by reading from a txt file. Reformatted root to include canvas and frame widget to pack widgets together and to create/use a scrollbar.
+
+**Thoughts:** I feel good about the progress made today. For some reason though it's turning out to be more difficult to add a functional scrollbar that can be use to scroll the entire window while also keeping widgets grouped together properly. I'll need to become more familiarized with tkinter, specifically creating new windows, what a root is, frame, canvas, and their respective functionalities. It's not exactly pretty, but the program works; Got all the questions, scrollable window to see questions, submit button, and saves responses to a txt file with a nicely formatted date and time attached to each entry.
