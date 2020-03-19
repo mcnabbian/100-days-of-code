@@ -108,3 +108,12 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Today's Progress:** Added multiple questions to gui by reading from a txt file. Reformatted root to include canvas and frame widget to pack widgets together and to create/use a scrollbar.
 
 **Thoughts:** I feel good about the progress made today. For some reason though it's turning out to be more difficult to add a functional scrollbar that can be use to scroll the entire window while also keeping widgets grouped together properly. I'll need to become more familiarized with tkinter, specifically creating new windows, what a root is, frame, canvas, and their respective functionalities. It's not exactly pretty, but the program works; Got all the questions, scrollable window to see questions, submit button, and saves responses to a txt file with a nicely formatted date and time attached to each entry.
+
+---
+### Day 15: March 19, 2020
+
+**Today's Progress:** Created new method 'create_questions' to clean code up a bit and make it more readable. Reorganized packing of widgets. Reformatted frame and window so that window is larger and the frame is centered.
+
+**Thoughts:** I'm seeing some downfalls of using tkinter. It's simplicity make it easy to create a simple gui, but it is also it's biggest hinderance in getting windows nicely configurated. For instance, it doesn't seem like centering a window, centering widgets within that window, and adding a scrollbar to the window shouldn't be as difficult as it has proven to be. It may be worth exploring other, more complex gui packages. For my purposes right now, tkinter should suffice.
+
+It looks like the canvas is only being created in order to implement a scrollbar. I wonder if I can bypass the canvas and just add a scrollbar to the frame instead? Because I'm not seeing much of a point to using a canvas.
