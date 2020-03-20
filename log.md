@@ -117,3 +117,12 @@ incorrectly woooo. Classic. Slow day, working through tutorials isn't particular
 **Thoughts:** I'm seeing some downfalls of using tkinter. It's simplicity make it easy to create a simple gui, but it is also it's biggest hinderance in getting windows nicely configurated. For instance, it doesn't seem like centering a window, centering widgets within that window, and adding a scrollbar to the window shouldn't be as difficult as it has proven to be. It may be worth exploring other, more complex gui packages. For my purposes right now, tkinter should suffice.
 
 It looks like the canvas is only being created in order to implement a scrollbar. I wonder if I can bypass the canvas and just add a scrollbar to the frame instead? Because I'm not seeing much of a point to using a canvas.
+
+---
+### Day 16: March 20, 2020
+
+**Today's Progress:** Pretty much nothing at all! On paper that is. Banged my head against the wall. 
+
+**Thoughts:**  I'm struggling to figure out how to save multiple text widgets within the same window. I'm looking for a way that isn't just 'brute force'. Right now I know two options: (1) Save one text widget per window, which would mean I'd open, write, and submit one question at a time. (2) Initalize each text widget separately. Things could get real ugly real fast with this. I'll do some more research and definitely reach out to communities that may be able to help first before doing anything.
+
+I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town with no internet having some fun. Oh well, it will pick back up on Sunday.
