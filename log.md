@@ -126,3 +126,10 @@ It looks like the canvas is only being created in order to implement a scrollbar
 **Thoughts:**  I'm struggling to figure out how to save multiple text widgets within the same window. I'm looking for a way that isn't just 'brute force'. Right now I know two options: (1) Save one text widget per window, which would mean I'd open, write, and submit one question at a time. (2) Initalize each text widget separately. Things could get real ugly real fast with this. I'll do some more research and definitely reach out to communities that may be able to help first before doing anything.
 
 I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town with no internet having some fun. Oh well, it will pick back up on Sunday.
+
+---
+### Day 17: March 23, 2020
+
+**Today's Progress:** Fixed automated_journal and now it runs correctly. However, it's using 'brute force' and is ugly to look at. Got started on a solution to clean up the code.
+
+**Thoughts:** Happy that the program now runs as expected. I'm having a hard time figuring out a more elegant solution. After deliberating with my friend and a lot of frustration, he got me started on a possible solution. It basically is by creating a list of Text objects and indexing them when I need to call .get(). 
