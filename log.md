@@ -133,3 +133,10 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Fixed automated_journal and now it runs correctly. However, it's using 'brute force' and is ugly to look at. Got started on a solution to clean up the code.
 
 **Thoughts:** Happy that the program now runs as expected. I'm having a hard time figuring out a more elegant solution. After deliberating with my friend and a lot of frustration, he got me started on a possible solution. It basically is by creating a list of Text objects and indexing them when I need to call .get(). 
+
+---
+### Day 18: March 24, 2020
+
+**Today's Progress:** Automated_journal now has cleaner, more flexible code. I also updated the github remote repository.
+
+**Thoughts:** After all that frustration, it really didn't take me long to figure out how to use a list and for loop to refactor all that code. It's super satisfying figuring that out and having my program run as expected. Now I plan on adding a database to it, probably using sqlite3 or mysql. I'll also add other useful features, like try-except blocks, possibly statisitcs, basically anything I can think of to make the program more user friendly and robust.
