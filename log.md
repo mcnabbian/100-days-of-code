@@ -140,3 +140,10 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Automated_journal now has cleaner, more flexible code. I also updated the github remote repository.
 
 **Thoughts:** After all that frustration, it really didn't take me long to figure out how to use a list and for loop to refactor all that code. It's super satisfying figuring that out and having my program run as expected. Now I plan on adding a database to it, probably using sqlite3 or mysql. I'll also add other useful features, like try-except blocks, possibly statisitcs, basically anything I can think of to make the program more user friendly and robust.
+
+---
+### Day 19: March 25, 2020
+
+**Today's Progress:** Built sqlite3 database. Still need to add functionality, like adding newly submitted entries to separate columns. Learned how important it is to correctly name files the first time around in your repositories :\
+
+**Thoughts:** Apparently renaming a file in git doesn't transfer over history. It will also mess up any references made to the file in other scripts. Moral of the story is; be sure to name the files correctly right off the bat. My next move is to connect db.py in gui.py and automatically add new entries to the db.
