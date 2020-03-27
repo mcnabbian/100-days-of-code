@@ -147,3 +147,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Built sqlite3 database. Still need to add functionality, like adding newly submitted entries to separate columns. Learned how important it is to correctly name files the first time around in your repositories :\
 
 **Thoughts:** Apparently renaming a file in git doesn't transfer over history. It will also mess up any references made to the file in other scripts. Moral of the story is; be sure to name the files correctly right off the bat. My next move is to connect db.py in gui.py and automatically add new entries to the db.
+
+---
+### Day 20: March 26, 2020
+
+**Today's Progress:** Program works! Added SQL commands to gui.py so now upon submit the user's input will be written to a text file and to a sqlite database.
+
+**Thoughts:** In terms of funtionality, the program works great. It does what it's supposed to and I hope to use it as a useful tool for myself. There are minor improvements to be made, but I think I will revisit that later in time. For now, I plan to spend time working through tutorials and learning data structures and algorithms so I can build my arsenal for tackling problems. There's a fine line between being stuck doing tutorials forever and not creating anything for yourself and only working on projects, where things would go a lot more smoothly with some more prior knowledge.
+
+---
+### Day 21: March 27, 2020
+
+**Today's Progress:** Not much actual progress made. I tried to refactor a part of the code that reads the questions and initializes the text boxes and got stuck. I was able to initialize everything with a dictionary, but was having trouble using that to save the user's input to text or the database, so I decided to leave it commented out for now.
+
+**Thoughts:** I'll sleep on it and return to the problem tomorrow and see if I can't crack it. Otherwise, I'm not going to spend too long on it and start a tutorial/course on something python. Maybe data science, but data structures and algorithms would be hugely beneficial as well. I might finish the book I have and build a web app. I would also love to create a basic personal website.
