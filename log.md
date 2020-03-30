@@ -161,3 +161,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Not much actual progress made. I tried to refactor a part of the code that reads the questions and initializes the text boxes and got stuck. I was able to initialize everything with a dictionary, but was having trouble using that to save the user's input to text or the database, so I decided to leave it commented out for now.
 
 **Thoughts:** I'll sleep on it and return to the problem tomorrow and see if I can't crack it. Otherwise, I'm not going to spend too long on it and start a tutorial/course on something python. Maybe data science, but data structures and algorithms would be hugely beneficial as well. I might finish the book I have and build a web app. I would also love to create a basic personal website.
+
+---
+### Day 22: March 28, 2020
+
+**Today's Progress:** Took a lot of time understanding how venvs work, how conda works, pipenv, set up sublime text as a new IDE because it's suites my needs better for small random scripts.
+
+**Thoughts:** Was a bit frustrating how long it took for me to get conda working properly and how to really use venvs. I also took a long while setting up sublime text with custom styling options, packages, etc. I was really struggling to get the conda package within sublime text working properly but I eventually found a decent work around/solution.
+
+---
+### Day 23: March 29, 2020
+
+**Today's Progress:** I actually set up a venv with conda and downloaded the right version of python and packages to get an old script to work! I also successfully connected to the github and hackernews api and graphed some data using pygal. 
+
+**Thoughts:** I'm beginning to realize how long of a road I have in front of me to truly feel like I am proficient in python. I guess the most important thing is that I can find solutions to these problems that I run into, even if it's at the expense of several frustrating hours. It's truly very fun and fulfilling and is a great hobby to add to my life.
