@@ -175,3 +175,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** I actually set up a venv with conda and downloaded the right version of python and packages to get an old script to work! I also successfully connected to the github and hackernews api and graphed some data using pygal. 
 
 **Thoughts:** I'm beginning to realize how long of a road I have in front of me to truly feel like I am proficient in python. I guess the most important thing is that I can find solutions to these problems that I run into, even if it's at the expense of several frustrating hours. It's truly very fun and fulfilling and is a great hobby to add to my life.
+
+---
+### Day 24: March 30, 2020
+
+**Today's Progress:** Started to create a django webapp. Learned some more about classes and how they work.
+
+**Thoughts:** I came across a project that uses machine learning to predict the next lyric in a Taylor Swift song. Seems like a fun idea so I think I'm going to keep that one in my back pocket and pull it out when I'm done with the django web app.
+
+---
+### Day 25: March 31, 2020
+
+**Today's Progress:** No progress on the web app. I did start a new jupyter notebook on a pokemon dataset because I want to become proficient in pandas and learn some data viz tools.
+
+**Thoughts:** Because of a job description that I saw, I figured it would be good to familiarize myself with excel. I looked into some resources for doing that and thought "you know what, there's basically no reason why I should use excel over python. Python is more powerful and much more flexible once you get past the 'high barrier of entry'. So then I started a course on codecademy but it was a little bit too basic and I felt like I was wasting my time. I've been really struggling to follow along with any "tutorial" or "guide". I often feel like I'm not really learning the material that well. I understand it logically but as soon as I'm left on my own it becomes a struggle. If I chose my own project I have so much more motivation, time goes by much faster, and I feel like I learned more. For now, I'm going to continue along that path and pay attention to what tools people are using and what's out there.
