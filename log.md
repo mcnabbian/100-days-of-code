@@ -196,3 +196,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Finally cleaned up the dataset by removing all generations of pokemon beyond 3 (because let's be honest the old ones are the coolest) and dropping all the "mega" pokemon. I don't even know what those are by I don't want them conflating the analysis.
 
 **Thoughts:** It seems like the only path forward is continuing to pursue project and then learn from there. I feel like I'm past the point of being a true beginner. I've got the basics down. I still often times feel like I have no idea what I'm doing and get tripped up by minor issues or have common misunderstandings. There's a long, long road ahead to becoming fully capable. I see this journey taking at least another 8 months.. which isn't that long at all, all things considered. The daily grind gets to you, but honestly I enjoy it. I enjoy problem solving. I enjoy creating. I enjor being challenged. I wouldn't want to spend my time any other way. It gets tiring and old after a while, but I guess that's why it's important to balance programming out with other things, like music, socializing, relaxing, exercising. Give me 2-4 hours a day of hard work programming and I'm happy camper.
+
+---
+### Day 26: April 2, 2020
+
+**Today's Progress:** Cleaned up pokedata set. Got rid of pokemon beyond Gen 3, got rid of 'mega' pokemon. Made some graphs, filtered out data, etc.
+
+**Thoughts:** Really starting to get the hang of python and pandas. I understand the data structures and am able to do basic things without looking up the documentation. But I'm also getting better at reading documentation.
+
+---
+### Day 27: April 3, 2020
+
+**Today's Progress:** started learnsql.com course.
+
+**Thoughts:** Slow day today. Friday. Practiced music a lot and didn't feel like digging into pandas, mostly because I didn't know what to do with it.
