@@ -210,3 +210,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** started learnsql.com course.
 
 **Thoughts:** Slow day today. Friday. Practiced music a lot and didn't feel like digging into pandas, mostly because I didn't know what to do with it.
+
+---
+### Day 28: April 4, 2020
+
+**Today's Progress:** Kept messing around with the pokemon dataset. Accidentally deleted a lot of work and had to reset to an earlier file version, so I lost a lot.
+
+**Thoughts:** Was kind of bummed that I lost some work. It's not a huge deal because it was all basic stuff for the most part. I learned the importance of saving and creating checkpoints for jupyter notebooks. I also learned that it's probably safer to just use the undo button.
+
+---
+### Day 29: April 5, 2020
+
+**Today's Progress:** Completed second part of A-Z SQL couse from learnsql.com.
+
+**Thoughts:** It's a great platform to learnsql, but it's a pretty spendy. It's free for like two more weeks however.
