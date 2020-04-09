@@ -239,8 +239,16 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 
 **Thoughts:** Bit of a lul in programming for me. I'm grinding on SQL because I have free access for like another week to a quality resource. I'm waiting on receiving an intro to computation book in the mail, made by an MIT professor, so I can start working on my CS fundamentals (DS and algorythms).
 
+---
 ### Day 32: April 8, 2020
 
 **Today's progress:** MORE MUSIC!! MORE SQL!! A NICE WALK! YOGA! ANOTHER LOSS IN MARIO KART!
 
 **Thoughts:** Music production is loads of fun and it's taking up more of my time right now. I'll keep working on SQL and wait for either the stanford course to start or my book to arrive in the mail. Or I might complete that Django web app or start a kaggle ML course.
+
+---
+### Day 32: April 8, 2020
+
+**Today's Progress:** SQL! also got my MIT book so I'm going to start working through the online course. Priority to SQL.
+
+**Thoughts:** Super excited to get started on building that fundamental CS knowledge. Also it's super nice today so getting outside.
