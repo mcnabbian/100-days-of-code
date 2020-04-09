@@ -224,3 +224,23 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Completed second part of A-Z SQL couse from learnsql.com.
 
 **Thoughts:** It's a great platform to learnsql, but it's a pretty spendy. It's free for like two more weeks however.
+
+---
+### Day 30: April 6, 2020
+
+**Today's Progress:** Refactored a big chunk of code from the cuttlefish project. Practiced SQL. Fixed an issue with the cuttlefish repo. Yoga. Spikeball.
+
+**Thoughts:** Felt great to refactor that code. It's like tangible progress has been made in the learning process. Also I keep forgetting to update this log becuase I've been posting daily updates in a discord community, but I'll be better about remembering.
+
+---
+### Day 31: April 7, 2020
+
+**Today's Progress:** Worked a lot of music and it went great. I also practiced more sql.
+
+**Thoughts:** Bit of a lul in programming for me. I'm grinding on SQL because I have free access for like another week to a quality resource. I'm waiting on receiving an intro to computation book in the mail, made by an MIT professor, so I can start working on my CS fundamentals (DS and algorythms).
+
+### Day 32: April 8, 2020
+
+**Today's progress:** MORE MUSIC!! MORE SQL!! A NICE WALK! YOGA! ANOTHER LOSS IN MARIO KART!
+
+**Thoughts:** Music production is loads of fun and it's taking up more of my time right now. I'll keep working on SQL and wait for either the stanford course to start or my book to arrive in the mail. Or I might complete that Django web app or start a kaggle ML course.
