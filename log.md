@@ -247,8 +247,22 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Thoughts:** Music production is loads of fun and it's taking up more of my time right now. I'll keep working on SQL and wait for either the stanford course to start or my book to arrive in the mail. Or I might complete that Django web app or start a kaggle ML course.
 
 ---
-### Day 32: April 8, 2020
+### Day 32: April 9, 2020
 
 **Today's Progress:** SQL! also got my MIT book so I'm going to start working through the online course. Priority to SQL.
 
 **Thoughts:** Super excited to get started on building that fundamental CS knowledge. Also it's super nice today so getting outside.
+
+---
+### Day 33: April 10, 2020
+
+**Today's Progress:** Finished SQL basics course.
+
+**Thoughts:** Plenty more SQL to learn but I'm going to work through some practice problems to help test/solidify those basics. Also to add in some variaty I'll start working through MIT book.
+
+---
+### Day 34: April 11, 2020
+
+**Today's Progress:** Chapter 2 of MIT book. Figured out some IDE problems.
+
+**Thoughts:** Was having problems with 'inputting' in sublime text so looks like Pycharm will be more useful. I've probably wasted time going back and forth between the two, such is life. I finally took the time to figure out some basics in Pycharm which should make things easier. Sublime text has ultimate customability and in some ways is a lot more simple. In other ways, it's not intuitive at all and pycharm does a better job for getting a newb up and running.
