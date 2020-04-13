@@ -266,3 +266,17 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Chapter 2 of MIT book. Figured out some IDE problems.
 
 **Thoughts:** Was having problems with 'inputting' in sublime text so looks like Pycharm will be more useful. I've probably wasted time going back and forth between the two, such is life. I finally took the time to figure out some basics in Pycharm which should make things easier. Sublime text has ultimate customability and in some ways is a lot more simple. In other ways, it's not intuitive at all and pycharm does a better job for getting a newb up and running.
+
+---
+### Day 35: April 12, 2020
+
+**Today's Progress:** Very unproductive. Spent too much time going back and forth between resources. Did some work in MIT book.
+
+**Thoughts:** A bit of a frustrating day because I spent so much time trying to figure out the best resource to use and did a bit of back and forth between two. I decided I'd go through harvard's CS50 because it is recently updated, has nice layout, support community, graded assignments, etc. I was hesitant because it's not python (at least the majority of it) and I already spent money on this nice book for the MIT course. However, I found out that the book doesn't have great practice problems and solutions to those problems online. The course offered through OCW is clunky and very out of date, depending on which release. The MIT course that I want to take doesn't start until June 3, and that's offered through Edx. SO, I figured I may as well work through CS50 and, when the time arrives, I'll hop into the MIT course. Or not, idk, just depends on how solid I feel in my CS fundamentals. I've read that people recommend doing both as they are different in a few important ways. For instance, CS50 is mostly teaching C.
+
+---
+### Day 36: April 13, 2020
+
+**Today's Progress:** CS50 week one lecture and finished two problems out of the first set. 
+
+**Thoughts:** C isn't all that much different than Python. I mean it is and it isn't. The core programming concepts are the same, but the way you go about doing them is pretty different. I see why C is considered more difficult to pick up. I do kind of like it because it's simpler/more rudimentary in some ways. I get more of a feel for how the source code gets translated into machine language and how that gets executed by the computer. This course would be very hard to do without prior experience. Even the second problem from the first week took me a couple of hours when I thought that it would take me like 30 mins because it's just ascii art, granted I'm doing the 'hard' problems.
