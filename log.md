@@ -280,3 +280,24 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** CS50 week one lecture and finished two problems out of the first set. 
 
 **Thoughts:** C isn't all that much different than Python. I mean it is and it isn't. The core programming concepts are the same, but the way you go about doing them is pretty different. I see why C is considered more difficult to pick up. I do kind of like it because it's simpler/more rudimentary in some ways. I get more of a feel for how the source code gets translated into machine language and how that gets executed by the computer. This course would be very hard to do without prior experience. Even the second problem from the first week took me a couple of hours when I thought that it would take me like 30 mins because it's just ascii art, granted I'm doing the 'hard' problems.
+
+---
+### Day 37: April 14, 2020
+
+**Today's Progress:** Worked on CS50 assignment. Band meeting.
+
+**Thoughts:** CS50 is a tough course and I'd consider myself proficient in Python. C is not as intuitive as Python but I do like how the error messages are a lot more informative.
+
+---
+### Day 38: April 15, 2020
+
+**Today's Progress:** LOTS of debugging on CS50 project. Messed around with making custom drum machine.
+
+**Thoughts:** I'm getting much better at debugging. I've found that just printing damn near everything is a great way to understand and see what is going on and which part of the code may be messing it up.
+
+---
+### Day 39: April 16, 2020
+
+**Today's Progress:** FINISHED ASSINGMENT! Lecture 2 of CS50
+
+**Thoughts:** This assignment was tricky. It probably took me around 8 hours to complete it. Doesn't sound like a whole lot on paper but it's a long time to be sitting down and concentrating hard. It's only week one and I already have a good amount of experience with CS so yeah this would be impossible for me if I started this like 6 months ago. Granted, I am doing the 'hard' problems when given the choice, so they're probably geared towards people like me. 
