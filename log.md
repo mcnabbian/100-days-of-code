@@ -198,106 +198,113 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Thoughts:** It seems like the only path forward is continuing to pursue project and then learn from there. I feel like I'm past the point of being a true beginner. I've got the basics down. I still often times feel like I have no idea what I'm doing and get tripped up by minor issues or have common misunderstandings. There's a long, long road ahead to becoming fully capable. I see this journey taking at least another 8 months.. which isn't that long at all, all things considered. The daily grind gets to you, but honestly I enjoy it. I enjoy problem solving. I enjoy creating. I enjor being challenged. I wouldn't want to spend my time any other way. It gets tiring and old after a while, but I guess that's why it's important to balance programming out with other things, like music, socializing, relaxing, exercising. Give me 2-4 hours a day of hard work programming and I'm happy camper.
 
 ---
-### Day 26: April 2, 2020
+### Day 27: April 2, 2020
 
 **Today's Progress:** Cleaned up pokedata set. Got rid of pokemon beyond Gen 3, got rid of 'mega' pokemon. Made some graphs, filtered out data, etc.
 
 **Thoughts:** Really starting to get the hang of python and pandas. I understand the data structures and am able to do basic things without looking up the documentation. But I'm also getting better at reading documentation.
 
 ---
-### Day 27: April 3, 2020
+### Day 28: April 3, 2020
 
 **Today's Progress:** started learnsql.com course.
 
 **Thoughts:** Slow day today. Friday. Practiced music a lot and didn't feel like digging into pandas, mostly because I didn't know what to do with it.
 
 ---
-### Day 28: April 4, 2020
+### Day 29: April 4, 2020
 
 **Today's Progress:** Kept messing around with the pokemon dataset. Accidentally deleted a lot of work and had to reset to an earlier file version, so I lost a lot.
 
 **Thoughts:** Was kind of bummed that I lost some work. It's not a huge deal because it was all basic stuff for the most part. I learned the importance of saving and creating checkpoints for jupyter notebooks. I also learned that it's probably safer to just use the undo button.
 
 ---
-### Day 29: April 5, 2020
+### Day 30: April 5, 2020
 
 **Today's Progress:** Completed second part of A-Z SQL couse from learnsql.com.
 
 **Thoughts:** It's a great platform to learnsql, but it's a pretty spendy. It's free for like two more weeks however.
 
 ---
-### Day 30: April 6, 2020
+### Day 31: April 6, 2020
 
 **Today's Progress:** Refactored a big chunk of code from the cuttlefish project. Practiced SQL. Fixed an issue with the cuttlefish repo. Yoga. Spikeball.
 
 **Thoughts:** Felt great to refactor that code. It's like tangible progress has been made in the learning process. Also I keep forgetting to update this log becuase I've been posting daily updates in a discord community, but I'll be better about remembering.
 
 ---
-### Day 31: April 7, 2020
+### Day 32: April 7, 2020
 
 **Today's Progress:** Worked a lot of music and it went great. I also practiced more sql.
 
 **Thoughts:** Bit of a lul in programming for me. I'm grinding on SQL because I have free access for like another week to a quality resource. I'm waiting on receiving an intro to computation book in the mail, made by an MIT professor, so I can start working on my CS fundamentals (DS and algorythms).
 
 ---
-### Day 32: April 8, 2020
+### Day 33: April 8, 2020
 
 **Today's progress:** MORE MUSIC!! MORE SQL!! A NICE WALK! YOGA! ANOTHER LOSS IN MARIO KART!
 
 **Thoughts:** Music production is loads of fun and it's taking up more of my time right now. I'll keep working on SQL and wait for either the stanford course to start or my book to arrive in the mail. Or I might complete that Django web app or start a kaggle ML course.
 
 ---
-### Day 32: April 9, 2020
+### Day 34: April 9, 2020
 
 **Today's Progress:** SQL! also got my MIT book so I'm going to start working through the online course. Priority to SQL.
 
 **Thoughts:** Super excited to get started on building that fundamental CS knowledge. Also it's super nice today so getting outside.
 
 ---
-### Day 33: April 10, 2020
+### Day 35: April 10, 2020
 
 **Today's Progress:** Finished SQL basics course.
 
 **Thoughts:** Plenty more SQL to learn but I'm going to work through some practice problems to help test/solidify those basics. Also to add in some variaty I'll start working through MIT book.
 
 ---
-### Day 34: April 11, 2020
+### Day 36: April 11, 2020
 
 **Today's Progress:** Chapter 2 of MIT book. Figured out some IDE problems.
 
 **Thoughts:** Was having problems with 'inputting' in sublime text so looks like Pycharm will be more useful. I've probably wasted time going back and forth between the two, such is life. I finally took the time to figure out some basics in Pycharm which should make things easier. Sublime text has ultimate customability and in some ways is a lot more simple. In other ways, it's not intuitive at all and pycharm does a better job for getting a newb up and running.
 
 ---
-### Day 35: April 12, 2020
+### Day 37: April 12, 2020
 
 **Today's Progress:** Very unproductive. Spent too much time going back and forth between resources. Did some work in MIT book.
 
 **Thoughts:** A bit of a frustrating day because I spent so much time trying to figure out the best resource to use and did a bit of back and forth between two. I decided I'd go through harvard's CS50 because it is recently updated, has nice layout, support community, graded assignments, etc. I was hesitant because it's not python (at least the majority of it) and I already spent money on this nice book for the MIT course. However, I found out that the book doesn't have great practice problems and solutions to those problems online. The course offered through OCW is clunky and very out of date, depending on which release. The MIT course that I want to take doesn't start until June 3, and that's offered through Edx. SO, I figured I may as well work through CS50 and, when the time arrives, I'll hop into the MIT course. Or not, idk, just depends on how solid I feel in my CS fundamentals. I've read that people recommend doing both as they are different in a few important ways. For instance, CS50 is mostly teaching C.
 
 ---
-### Day 36: April 13, 2020
+### Day 38: April 13, 2020
 
 **Today's Progress:** CS50 week one lecture and finished two problems out of the first set. 
 
 **Thoughts:** C isn't all that much different than Python. I mean it is and it isn't. The core programming concepts are the same, but the way you go about doing them is pretty different. I see why C is considered more difficult to pick up. I do kind of like it because it's simpler/more rudimentary in some ways. I get more of a feel for how the source code gets translated into machine language and how that gets executed by the computer. This course would be very hard to do without prior experience. Even the second problem from the first week took me a couple of hours when I thought that it would take me like 30 mins because it's just ascii art, granted I'm doing the 'hard' problems.
 
 ---
-### Day 37: April 14, 2020
+### Day 39: April 14, 2020
 
 **Today's Progress:** Worked on CS50 assignment. Band meeting.
 
 **Thoughts:** CS50 is a tough course and I'd consider myself proficient in Python. C is not as intuitive as Python but I do like how the error messages are a lot more informative.
 
 ---
-### Day 38: April 15, 2020
+### Day 40: April 15, 2020
 
 **Today's Progress:** LOTS of debugging on CS50 project. Messed around with making custom drum machine.
 
 **Thoughts:** I'm getting much better at debugging. I've found that just printing damn near everything is a great way to understand and see what is going on and which part of the code may be messing it up.
 
 ---
-### Day 39: April 16, 2020
+### Day 41: April 16, 2020
 
 **Today's Progress:** FINISHED ASSINGMENT! Lecture 2 of CS50
 
 **Thoughts:** This assignment was tricky. It probably took me around 8 hours to complete it. Doesn't sound like a whole lot on paper but it's a long time to be sitting down and concentrating hard. It's only week one and I already have a good amount of experience with CS so yeah this would be impossible for me if I started this like 6 months ago. Granted, I am doing the 'hard' problems when given the choice, so they're probably geared towards people like me. 
+
+---
+### Day 42: April 17, 2020
+
+**Today's Progress:** Worked on problem set 3.
+
+**Thoughts:** I should've made a lot more progress on the first problem than I did today. I got tripped up by a simple logic problem, which made me frustrated, which affected my thinking/coding skills, which made me more frustrated, etc. etc. Just one of those days. Probably best to chalk it up as an L and come back to it later or tomorrow. 
