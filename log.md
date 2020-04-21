@@ -308,3 +308,20 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Worked on problem set 3.
 
 **Thoughts:** I should've made a lot more progress on the first problem than I did today. I got tripped up by a simple logic problem, which made me frustrated, which affected my thinking/coding skills, which made me more frustrated, etc. etc. Just one of those days. Probably best to chalk it up as an L and come back to it later or tomorrow. 
+
+---
+### Day 43: April 18, 2020
+
+**Today's Progress:** Another day, another problem complete. One to go for week 2.
+
+---
+### Day 44: April 19, 2020
+
+**Today's Progress:** Started the hard problem in problem set two.
+
+---
+### Day 45: April 20, 2020
+
+**Today's Progress:** SO CLOSE to finishing problem set two. Just gotta figure out how to convert the char array I built in a for loop into a string.
+
+**Thoughts:** Even though I was really trying to focus on 'mastering' one language, I think learning C is super beneficial to my understanding of computation and programming. This class has gotten me a whole lot more interested in computation as a science and has solidified my desire to pursue it purely out of personal interest. Yes, there are good jobs associated with it, but it's honestly just really interesting, there's so much to learn which I love, and it there's basically barrier to entry to start building things. Even if you screw up on that process, it's 99% of the time not a big deal. It's not like working on your car as a hobby, where you order expensive parts and how you can really screw something up if done incorrectly.
