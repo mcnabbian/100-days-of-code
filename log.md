@@ -325,3 +325,20 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** SO CLOSE to finishing problem set two. Just gotta figure out how to convert the char array I built in a for loop into a string.
 
 **Thoughts:** Even though I was really trying to focus on 'mastering' one language, I think learning C is super beneficial to my understanding of computation and programming. This class has gotten me a whole lot more interested in computation as a science and has solidified my desire to pursue it purely out of personal interest. Yes, there are good jobs associated with it, but it's honestly just really interesting, there's so much to learn which I love, and it there's basically barrier to entry to start building things. Even if you screw up on that process, it's 99% of the time not a big deal. It's not like working on your car as a hobby, where you order expensive parts and how you can really screw something up if done incorrectly.
+
+---
+### Day 46: April 21, 2020
+
+**Today's Progress:** Finished problem set 2. Fun fact, you can't return an array, you can return a pointer or something but yeah I had to individually print out each char from the array.
+
+---
+### Day 47: April 22, 2020
+
+**Today's Progress:** Watched week 4 lecture of algorithms and recursion. Completed first problem which was weirdly easy.
+
+---
+### Day 48: Apirl 23, 2020
+
+**Today's Progress:** Started the second problem in set 3. This one is going to be real tough.
+
+**Thoughts:** Well I see why the last one was so easy. This one is much more complicated and harder, granted I am doing the "more comfortable" version of the problem which is supposed to be harder. I almost settled for the easier one because of how intimidating it seems, but I told myself I'd do all the hard ones so that's what I'm going to do. I bet it'll be good for me to struggle and problem solve. That's where you really learn anyways. It'll just increase my confidence in programming if I can get past this.
