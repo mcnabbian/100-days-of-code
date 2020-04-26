@@ -342,3 +342,22 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Started the second problem in set 3. This one is going to be real tough.
 
 **Thoughts:** Well I see why the last one was so easy. This one is much more complicated and harder, granted I am doing the "more comfortable" version of the problem which is supposed to be harder. I almost settled for the easier one because of how intimidating it seems, but I told myself I'd do all the hard ones so that's what I'm going to do. I bet it'll be good for me to struggle and problem solve. That's where you really learn anyways. It'll just increase my confidence in programming if I can get past this.
+
+---
+### Day 49: April 24, 2020
+
+**Today's Progress:** Completed a couple different functions for tideman problem
+
+---
+### Day 50: April 25, 2020
+
+**Today's Progress:** Completed another function. Slow and steady
+
+**Thoughts:** 50 days down! 50 more to go! Realistically, I'm going to have to do this everyday for like another 6+ months easily.
+
+---
+### Day 51: April 26, 2020
+
+**Today's Progress:** Created a function for sorting a 2-D
+
+**Thoughts:** Great learning experience here: tackeling tough problems. This problem started off super intimidating, and it has no doubt been difficult, but I'm making slow and steady progress towards finishing it. Writing down what's happening or what needs to happen on pen and paper has been super helpful for understanding a problem and how I can go about solving it. This problem is difficult to unit test, but so far has been compiling at least haha.
