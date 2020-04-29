@@ -361,3 +361,20 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Created a function for sorting a 2-D
 
 **Thoughts:** Great learning experience here: tackeling tough problems. This problem started off super intimidating, and it has no doubt been difficult, but I'm making slow and steady progress towards finishing it. Writing down what's happening or what needs to happen on pen and paper has been super helpful for understanding a problem and how I can go about solving it. This problem is difficult to unit test, but so far has been compiling at least haha.
+
+---
+### Day 52: April 27, 2020
+
+**Today's Progress:** Slow and steady progress on tideman problem :\
+
+---
+### Day 53: April 28, 2020
+
+**Today's Progress:** Another day of hitting my head on the wall, but I think I figured out a tough function
+
+---
+### Day 54: April 29, 2020
+
+**Today's Progress:** SO CLOSE! All the test cases passed except for one. I need to figure out how to detect middle cycles in a 2-D array.
+
+**Thoughts:** I'm tempted to call it and turn it in since it's so close. But honestly I've spent so much time/energy trying to figure this out that I'm going to get it right if it kills me. I talked things out with some people and I think I understand theoretically how to solve the issue, but putting down in code in intimidating. I'll give it a shot later if I have time. Otherwise tomorrow I'll give it another crack.
