@@ -378,3 +378,18 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** SO CLOSE! All the test cases passed except for one. I need to figure out how to detect middle cycles in a 2-D array.
 
 **Thoughts:** I'm tempted to call it and turn it in since it's so close. But honestly I've spent so much time/energy trying to figure this out that I'm going to get it right if it kills me. I talked things out with some people and I think I understand theoretically how to solve the issue, but putting down in code in intimidating. I'll give it a shot later if I have time. Otherwise tomorrow I'll give it another crack.
+
+---
+### Day 55: April 30, 2020
+
+**Today's Progress:** Nothing, on paper. I have a mucher better understanding for how an adjacency matrix works.
+
+---
+### Day 56: May 1, 2020
+
+**Today's Progress:** FINALLY SOLVED THE PROBLEM. I was trying to figure out the lock_pairs function for a solid 4 or 5 days. I used two nested for loops and it was pretty ugly but oh well. It would be much more simple to use recursion but I could not conceptualize how to use it for this. Recursion and 2-D arrays are definitely something that I am going to have to come back to in the future. It's a weak point so I'm just going to have to hit it harder.
+
+---
+### Day 57: May 2, 2020
+
+**Today's Progress:** Learned about binary, memory storage, bit storage, all that fun stuff.
