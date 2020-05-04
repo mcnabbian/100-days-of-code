@@ -393,3 +393,13 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 57: May 2, 2020
 
 **Today's Progress:** Learned about binary, memory storage, bit storage, all that fun stuff.
+
+---
+### Day 58: May 3, 2020
+
+**Today's Progress:** Finished week 4 lecture.
+
+---
+### Day 59: May 4, 2020
+
+**Today's Progress:** Started pset4
