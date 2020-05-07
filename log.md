@@ -403,3 +403,24 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 59: May 4, 2020
 
 **Today's Progress:** Started pset4
+
+---
+### Day 60: May 5, 2020
+
+**Today's Progress:** pset4 work.
+
+**Thoughts:** This assignment is creating image filter! It's pretty cool and gives me a much deeper understanding for what pictures are and how they're just 2-D arrays. I understand what bytes are, what a 24-bit image is, etc. I understand why higher resolution photos take more memory, why high bit photos take more memory.
+
+---
+### Day 61: May 6, 2020
+
+**Today's Progress:** more pset4 work.
+
+**Thoughts:** My buddy identified a stupid mistake in my code and fixed it so that was nice. When I fixed it and before a ran it again, I wasn't convinced that it would really change anything. Lo and behold, I got the correct output. Sometimes it's funny how one little piece can make or break your code. Upon first glance, it didn't seem like it even mattered. 
+
+---
+### Day 62: May 7, 2020
+
+**Today's Progress:** pset4 work. Now on the blurring filter function.
+
+**Thoughts:** I need to figure out how to basically replace my old bit map with a newly created bitmap, that has the correct 'blurred values'. I also need to figure out the edge cases (literally how to deal with the pixels on the edge of the bit map). I'm honestly not sure if I could be doing things much more efficiently tbh. Right now I have 3 nested for loops which is probably the most I've had yet. There must be a way to use recursion. I'm just so bad at thinking about how I can actually use recursion, but I get it in theory.
