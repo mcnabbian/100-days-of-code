@@ -424,3 +424,27 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** pset4 work. Now on the blurring filter function.
 
 **Thoughts:** I need to figure out how to basically replace my old bit map with a newly created bitmap, that has the correct 'blurred values'. I also need to figure out the edge cases (literally how to deal with the pixels on the edge of the bit map). I'm honestly not sure if I could be doing things much more efficiently tbh. Right now I have 3 nested for loops which is probably the most I've had yet. There must be a way to use recursion. I'm just so bad at thinking about how I can actually use recursion, but I get it in theory.
+
+---
+### Day 63: May 8, 2020
+
+**Today's Progress:** Shorter day, not much progress. Struggling with blur function.
+
+---
+### Day 64: May 9, 2020
+
+**Today's Progress:** More struggle with blur function.
+
+---
+### Day 65: May 10, 2020
+
+**Today's Progress:** I understand how to solve the problem and I refactored the code that I had previously and cut it way down and made it much cleaner.
+
+**Thoughts:** I previously solved the problem in a rudimentary way, not understanding that there was a cleaner solution. I found some comments people made on the cs50 discord channel and finally understood what to do. I basically went from changing my for loop initialization depending on where I was in the graph to keeping the initialization consitent, but if I happened to be looking at one of the edge cases, simply do nothing and move onto the next cell.
+
+---
+### Day 66: May 11, 2020
+
+**Today's Progress:** FINALLY figured out why I wasn't getting the correct color values in my temp array. Struggled with that for hours yesterday. SO, solved blur function and made very good progress on edge function. Going to revisit that tomorrow, but it shouldn't take more than 1.5 hours.
+
+**Thoughts:** Sometimes I'm convinced I'm real dump and not cut out for this. Sometimes I miss seeing the easier, cleaner solution. Does this make me a bad programmer? Maybe I'm not as bright/clever right off the bat. But, I will work through my struggles, learn and understand the problem, and then revisit the situation with an open mind. I think that that is plenty good enough for building the things that I want to build.
