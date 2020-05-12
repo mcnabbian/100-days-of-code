@@ -448,3 +448,10 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** FINALLY figured out why I wasn't getting the correct color values in my temp array. Struggled with that for hours yesterday. SO, solved blur function and made very good progress on edge function. Going to revisit that tomorrow, but it shouldn't take more than 1.5 hours.
 
 **Thoughts:** Sometimes I'm convinced I'm real dump and not cut out for this. Sometimes I miss seeing the easier, cleaner solution. Does this make me a bad programmer? Maybe I'm not as bright/clever right off the bat. But, I will work through my struggles, learn and understand the problem, and then revisit the situation with an open mind. I think that that is plenty good enough for building the things that I want to build.
+
+---
+### Day 67: May 12, 2020
+
+**Today's Progress:** Finished pset4! 
+
+**Thoughts:** I thought it wouldn't take me as long because I just had to finish up an indexing error and stuff but, lo and behold, I was getting an incorrect output. I spent a good amount of time trying to debug it myself then reached out to the discord community about what the output I was receiving might mean. Turns out, when I was filling the byte array with new values, I was storing int values that were too large. So, some of that int storage got thrown out, giving me an incorrect byte value. All I had to do was switch when I capped the value. I was capping the value after adding it to the byte array, but I needed to do it before. The 'filter' problem was way more interesting than the tideman problem. Tomorrow will the data structures week.
