@@ -455,3 +455,10 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Finished pset4! 
 
 **Thoughts:** I thought it wouldn't take me as long because I just had to finish up an indexing error and stuff but, lo and behold, I was getting an incorrect output. I spent a good amount of time trying to debug it myself then reached out to the discord community about what the output I was receiving might mean. Turns out, when I was filling the byte array with new values, I was storing int values that were too large. So, some of that int storage got thrown out, giving me an incorrect byte value. All I had to do was switch when I capped the value. I was capping the value after adding it to the byte array, but I needed to do it before. The 'filter' problem was way more interesting than the tideman problem. Tomorrow will the data structures week.
+
+---
+### Day 68: May 13, 2020
+
+**Today's Progress:** Watched Week 5 lecture on data structures.
+
+**Thoughts:** I didn't realize there was another problem to do in pset4, so I'll be going back and starting that probably tomorrow :(
