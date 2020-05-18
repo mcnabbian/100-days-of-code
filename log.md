@@ -462,3 +462,36 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Watched Week 5 lecture on data structures.
 
 **Thoughts:** I didn't realize there was another problem to do in pset4, so I'll be going back and starting that probably tomorrow :(
+
+---
+### Day 69: May 14, 2020
+
+**Today's Progress:** started recover from pset4.
+
+---
+### Day 70: May 15, 2020
+
+**Today's Progress:** Made progress on recover. 
+
+**Thoughts:** It's kinda cool learning how to "recover" lost data by inspecting some bits.
+
+---
+### Day 71: May 16, 2020
+
+**Today's Progress:** Finished recover. Now I can finally start pset5
+
+**Thoughts:** that problem was harder than I expected. There was one tricky part about reading in info from a file with a while loop and closing out of the while loop properly and stuff. I had a hard time understanding how to open a file object and close it to create a new file object with an updated name and how I could do this depending on the first four bytes of a 'chunk'. I figured out that I needed to open that file object and initialize it with NULL outside of the loop and then close it after the loop ended and the file was done being read.
+
+---
+### Day 72: May 17, 2020
+
+**Today's Progress:** started pset5
+
+**Thoughts:** this problem seems very challenging and there's a lot of information to unpack and understand before I can even get started.. which is probably my least favorite activity. It's much more fun when I've gotten a grasp of the situation and I can try different things to tackle a problem. But first it takes understanding of 'what even is my problem'?
+
+---
+### Day 73: May 18, 2020
+
+**Today's Progress:** Started tackling the load function.
+
+**Thoughts:** well watching the walkthrough helped a lot so now I can finally try some different stuff out and see what happens
