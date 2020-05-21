@@ -495,3 +495,22 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Started tackling the load function.
 
 **Thoughts:** well watching the walkthrough helped a lot so now I can finally try some different stuff out and see what happens
+
+---
+### Day 74: May 19, 2020
+
+**Today's Progress:** Still working on speller.
+
+**Thoughts:** I'm struggling to understand how to create a hashtable and add new nodes to it
+
+---
+### Day 75: May 20, 2020
+
+**Today's Progress:** Solved a couple more functions in speller.
+
+**Thoughts:** I tried creating my own hash function to start so that I could learn and understand it fully but it was a huge struggle.
+
+---
+### Day 76: May 21, 2020
+
+**Today's Progress:** great progress, but given words of a length of ~45, it breaks my hash function. It ends up returning a negative int somehow, even though that is one of the checks in the hash function. Tomorrow will be some debugging :(. Other than that, this problem isn't too difficult from here on out. I should go back and make it more efficient and mess with the hashing function to see what happens.
