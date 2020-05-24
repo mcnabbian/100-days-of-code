@@ -514,3 +514,25 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 76: May 21, 2020
 
 **Today's Progress:** great progress, but given words of a length of ~45, it breaks my hash function. It ends up returning a negative int somehow, even though that is one of the checks in the hash function. Tomorrow will be some debugging :(. Other than that, this problem isn't too difficult from here on out. I should go back and make it more efficient and mess with the hashing function to see what happens.
+
+---
+### Day 77: May 22, 2020
+
+**Today's Progress:** more pset5 work.
+
+**Thoughts:** the numbers get too huge to hold in a long int. So i just took the absolute value of the int, which isn't exactly ideal but it works.
+
+---
+### Day 78: May 23, 2020
+
+**Today's Progress:** Passed all tests!!
+
+**Thoughts:** before i'm done working on this problem, I want to see if I can't optimize it a little bit more and make it more efficient.
+
+---
+### Day 79: May 24, 2020
+
+**Today's Progress:** Cleaned up the code a bit
+
+**Thoughts:** Well I submitted my code in the "speed" contest and got sub 400 out of 1200 so I feel pretty okay about it. I tried cleaning up the code a bit, small refactoring, but nothing made a difference for whatever reason. Perhaps using a trie would speed things but because memory doesn't matter.
+
