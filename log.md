@@ -536,3 +536,16 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 
 **Thoughts:** Well I submitted my code in the "speed" contest and got sub 400 out of 1200 so I feel pretty okay about it. I tried cleaning up the code a bit, small refactoring, but nothing made a difference for whatever reason. Perhaps using a trie would speed things but because memory doesn't matter.
 
+---
+### Day 80: May 25, 2020
+
+**Today's Progress:** set up java IDE (IntelliJ) with the runelite github repository. Went through the steps of setting that up with Maven and some other things.
+
+**Thoughts:** I'm really excited to contribute to open-source, especially to things that I have interest in. The client I use to play OSRS is open-source and on github so I figured that that would be a great place to start. However, it's all very intimidating. The repo is much more complicated than anything that I've ever worked with. There's lots of connecting pieces and simple navigation is troublesome. It's also written in Java, a language I have little experience in from years ago. However, I am determined to do SOMETHING, even if it's just some documentation editing. It's like trying to drink water out of a fire hose.
+
+---
+### Day 81: May 26, 2020
+
+**Today's Progress:** Nothing much, watched a long video on open source contribution. Had a rough day and a long night before that.
+
+**Thoughts:** I was kind of hoping that they'd break down a complicated git repo and show an example, but instead they talked about their experience. They try and make it sound less intimidating and make it sound really cool, which it is. It's a community of people magically working together and it's all around great for people and society.
