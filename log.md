@@ -549,3 +549,15 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Nothing much, watched a long video on open source contribution. Had a rough day and a long night before that.
 
 **Thoughts:** I was kind of hoping that they'd break down a complicated git repo and show an example, but instead they talked about their experience. They try and make it sound less intimidating and make it sound really cool, which it is. It's a community of people magically working together and it's all around great for people and society.
+
+---
+### Day 82: May 27, 2020
+
+**Today's Progress:** Getting myself familiar with the runelite repo.
+
+---
+### Day 83: May 28, 2020
+
+**Today's Progress:** Another day spent getting myself oriented, trying to understand what is going on in the code. Trying to understand java syntax. Looked at a couple of issues and tried to solve them, even if they already had pull requests.
+
+**Thoughts:** I still feel like I'm getting blasted in the face by fire hose water, but it is encouraging when I understand how an issue was solved and how it was solved. Almost all the problems are out of scope for me, I'm not ready to tackle the complicated ones. But if it's something like adding an overlay to an object, I figured out how to do that! And how it works by calling the runelite API.
