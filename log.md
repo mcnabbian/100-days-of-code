@@ -561,3 +561,15 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Another day spent getting myself oriented, trying to understand what is going on in the code. Trying to understand java syntax. Looked at a couple of issues and tried to solve them, even if they already had pull requests.
 
 **Thoughts:** I still feel like I'm getting blasted in the face by fire hose water, but it is encouraging when I understand how an issue was solved and how it was solved. Almost all the problems are out of scope for me, I'm not ready to tackle the complicated ones. But if it's something like adding an overlay to an object, I figured out how to do that! And how it works by calling the runelite API.
+
+---
+### Day 84: May 29, 2020
+
+**Today's Progress:** spent some time looking at issues and their subsequent pull requests and seeing if I could recreate the solution/understand what was going on/even find it in the repo. Even finding where the mentioned issue lies in the codebase is suprisingly difficult.
+
+---
+### Day 85: May 31, 2020
+
+**Today's Progress:** looked at an agility overlay issue someone brought up, but eventually figured out that the solution was going to be quite difficult and janky and that it wasn't worth spending the time trying to figure it out.
+
+**Thoughts:** didn't really spend anytime working on programming yesterday. I think I needed a bit of a break, just got laid off and everything. 
