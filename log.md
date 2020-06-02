@@ -573,3 +573,13 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** looked at an agility overlay issue someone brought up, but eventually figured out that the solution was going to be quite difficult and janky and that it wasn't worth spending the time trying to figure it out.
 
 **Thoughts:** didn't really spend anytime working on programming yesterday. I think I needed a bit of a break, just got laid off and everything. 
+
+---
+### Day 86: June 1, 2020
+
+**Today's Progress:** Basically nothing. Spent all day figuring out how to implement a new emoji into runelite. I actually ended up getting it to work but it looked like crap in game and I couldn't figure out why. I tested other emojis and they looked fine, so I think it was the nature of the emoji and the png used. I was convinced there was a problem in not using 8-bit coloring after looking at others people have added, I don't think that was it.
+
+---
+### Day 87: June 2, 2020
+
+**Today's Progress:** NOTHING! Spent a lot of time reading the runelite codebase, fixing my git situation, and reading my new java book. I looked at some pull requests that people submitted and basically tried to understand what they did and how everything worked in the code written. There's a lot of syntax in java that is unfamiliar to me, so when I came across things I didn't recognize I looked them up on the web or referenced my book.
