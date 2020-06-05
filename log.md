@@ -583,3 +583,20 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 87: June 2, 2020
 
 **Today's Progress:** NOTHING! Spent a lot of time reading the runelite codebase, fixing my git situation, and reading my new java book. I looked at some pull requests that people submitted and basically tried to understand what they did and how everything worked in the code written. There's a lot of syntax in java that is unfamiliar to me, so when I came across things I didn't recognize I looked them up on the web or referenced my book.
+
+---
+### Day 88: June 3, 2020
+
+**Today's Progress:** Made my first pull request! I figured out the emojis to use and implemented various country flags and like a rainbow flag.
+
+---
+### Day 89: June 4, 2020
+
+**Today's Progress:** Made another pull request! This one is to fix an issue where item buy limit timers were being duplicated.
+
+---
+### Day 90: June 5, 2020
+
+**Today's Progress:** Well turns out I didn't understand what the expected output should be so my solution isn't any good. It also turns out the problem isn't quite as simple as I thought it might be. I spent like all day narrowing it down.
+
+**Thoughts:** Doing this contribution is by far the most that I've learned and it's the most real world experience. I also learned a lot creating an automated journal in python, but contributing to Runelite uses many different skills like how to navigate a codebase, read others codes, understand what it happening, fix issues that people bring up, deal with vague info about the issues, work with the other developers, get flack on PRs for people's weird opinions (one guy didn't like the use of hashtags to trigger flag emojis and specifically really disliked the rainbow, white, and blacks flags haha). 
