@@ -600,3 +600,22 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 **Today's Progress:** Well turns out I didn't understand what the expected output should be so my solution isn't any good. It also turns out the problem isn't quite as simple as I thought it might be. I spent like all day narrowing it down.
 
 **Thoughts:** Doing this contribution is by far the most that I've learned and it's the most real world experience. I also learned a lot creating an automated journal in python, but contributing to Runelite uses many different skills like how to navigate a codebase, read others codes, understand what it happening, fix issues that people bring up, deal with vague info about the issues, work with the other developers, get flack on PRs for people's weird opinions (one guy didn't like the use of hashtags to trigger flag emojis and specifically really disliked the rainbow, white, and blacks flags haha). 
+
+---
+### Day 91: June 6, 2020
+
+**Today's Progress:** Submitted PR to fix an issue with a timer being duplicated in a grand exchange widget.
+
+**Thoughts:** I didn't feel like sitting down and working on this today honestly. I was tired of being stuck on this issue and wanted to submit another PR as soon as possible to fix the one that I put in before. It does feel great when you've identified a problem and manage to fix it.
+
+---
+### Day 92: June 7, 2020
+
+**Today's Progress:** Read up on java in my new book. Solved a leetcode easy problem.
+
+**Thoughts:** It's not exactly the most ~riveting~ read but it does close a lot of those 'loose ends' in my knowledge of java, which helps me with readability and writing. There's a lot more syntax and 'stuff' to java than C and in some ways Python so it's just going to take some time.
+
+---
+### Day 93: June 8, 2020
+
+**Today's Progress:** Submitted another PR that *I THINK* fixes the issue. I tested it in game and it fixed it, I just don't know if my solution is the 'optimal' one.
