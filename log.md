@@ -619,3 +619,18 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 93: June 8, 2020
 
 **Today's Progress:** Submitted another PR that *I THINK* fixes the issue. I tested it in game and it fixed it, I just don't know if my solution is the 'optimal' one.
+
+---
+### Day 94: June 10, 2020
+
+**Today's Progress:** Received feedback on latest PR and attempted to make changes.
+
+---
+### Day 95: June 11, 2020
+
+**Today's Progress:** Spent most of the day just trying to debug for my latest PR. Turns out the the teleport timers were being created slightly early (before the animation was actually complete). Learned some good stuff on using the debug logs though.
+
+---
+### Day 96: June 12, 2020
+
+**Today's Progress:** Okay so after some more debugging I've figured out more of the problem. Unfortunately, it appears to be more complicated than I initially thought, so it may be outside the scope of my knowledge. However, it's a really niche thing (using home teleport from Underwater) that maybe I'll submit a solution that only partially fixes it.
