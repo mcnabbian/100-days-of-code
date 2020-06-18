@@ -634,3 +634,30 @@ I'm slightly bummed that my streak will be ending tomorrow. I'll be out of town 
 ### Day 96: June 12, 2020
 
 **Today's Progress:** Okay so after some more debugging I've figured out more of the problem. Unfortunately, it appears to be more complicated than I initially thought, so it may be outside the scope of my knowledge. However, it's a really niche thing (using home teleport from Underwater) that maybe I'll submit a solution that only partially fixes it.
+
+---
+### Day 97: June 15, 2020
+
+**Today's Progress:** Worked on cow teleport bug
+
+---
+### Day 98: June 16, 2020
+
+**Today's Progress:** More work on cow teleport
+
+---
+### Day 99: June 17, 2020
+
+**Today's Progress:** leet code and worked on cow teleport
+
+--
+### Day 100: June 18, 2020
+
+**Today's Progress:** leet code and cow teleport work
+
+**Thoughts:** I might just have to move past this cow teleport thing. It's just a minor issue and doesn't really matter much. It has been a great experience for me to learn OOP though. The only thing that's keeping me in it is the fact that I'm having trouble tracking an NPC's animation changes, which I feel like is something useful to know and something that I can definitely do. OH BTW 100 days BABY!!! I plan on continuing this journey as I can see first hand how far I've come since I dedicated myself to programming for at least an hour everyday.
+
+“Most people overestimate what they can do in one year and underestimate what they can do in ten years.”
+- Bill Gates
+
+I think this even applies on a smaller scale as well. We overestimate how much we can get done in a day, underestimate how much we can get done in a week. Over estimate how much we can get done in 1 month. Underestimate how we can get done in 3 months. It's *DAILY* chipping away at something, learning some skill, that really adds up over time. Whatever it is you want, it can be achieved with small daily progress. It may take 5 years, it may take 10, it may take 15, etc. But someday it will be achieved or you will have changed your mind along the way/found something better that you never even thought of.
